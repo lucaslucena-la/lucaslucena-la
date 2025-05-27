@@ -2,7 +2,7 @@
 
 ## My name is Lucas Lucena
 
-(Java | C++ | TypeScript | React | Node.js | Python | HTML | CSS)
+(Python| C++ | TypeScript | React | Node.js | Java | HTML | CSS)
 
 - 👨‍💻 Computer Science Student @UFMT
 - 🧠 Passionate about software engineering and fullstack development
