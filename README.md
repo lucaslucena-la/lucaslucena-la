@@ -1,19 +1,45 @@
-# Hi There! 👋
+# Hi There! 👋 I'm Lucas Lucena
 
-## My name is Lucas Lucena
 
-(Python| C++ | TypeScript | React | Node.js | Java | HTML | CSS)
+- 👨‍💻 Computer Science Student @UFMT  
+- 🧠 Passionate about software engineering and fullstack development  
+- 🌱 Currently learning fullstack web development  
+- 💼 Open to exciting projects and collaboration  
 
-- 👨‍💻 Computer Science Student @UFMT
-- 🧠 Passionate about software engineering and fullstack development
-- 🌱 Currently learning fulstack web development
-- 💼 Open to exciting projects and collaboration
+<div>
+  <a href="https://github.com/lucaslucena-la">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaslucena-la&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslucena-la&layout=compact&langs_count=16&theme=tokyonight" />
+  </a>
+</div>
 
-### Contact me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://linkedin.com/in/seuusuario)](https://www.linkedin.com/in/lucaslucena-la/)
-[![Email](https://img.shields.io/badge/-Email-purple?style=flat-square&logo=gmail&logoColor=white&link=mailto:lucaslucena.dev123@gmail.com.com)](mailto:lucaslucena.dev123@gmail.com.com)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Lucas-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lucas-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Lucas-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+</div>
 
 ---
 
-### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslucena-la&layout=compact&theme=tokyonight)
+### 🌐 Connect with me:
+
+<div style="margin-top: 20px">
+  <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank" style="display: inline-block; margin-right: 10px;">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  
+  <a href="https://instagram.com/SEU-USUARIO" target="_blank" style="display: inline-block; margin-right: 10px;">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  
+  
+  <a href="mailto:SEU-EMAIL@gmail.com" target="_blank" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
+
