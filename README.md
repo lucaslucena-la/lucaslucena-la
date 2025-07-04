@@ -45,5 +45,4 @@
 
 ![snake gif](https://raw.githubusercontent.com/lucaslucena-la/lucaslucena-la/output/github-contribution-grid-snake.svg)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslucena-la&repo=portfolio&theme=react)](https://github.com/lucaslucena-la/portfolio)
 
