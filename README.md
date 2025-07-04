@@ -29,17 +29,18 @@
 ### 🌐 Connect with me:
 
 <div style="margin-top: 20px">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank" style="display: inline-block; margin-right: 10px;">
+  <a href="https:www.linkedin.com/in/lucaslucena-la" target="_blank" style="display: inline-block; margin-right: 10px;">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   
-  <a href="https://instagram.com/SEU-USUARIO" target="_blank" style="display: inline-block; margin-right: 10px;">
+  <a href="https://instagram.com/lucena.dev" target="_blank" style="display: inline-block; margin-right: 10px;">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   
   
-  <a href="mailto:SEU-EMAIL@gmail.com" target="_blank" style="display: inline-block;">
+  <a href="mailto:lucaslucena.dev123@gmail.com" target="_blank" style="display: inline-block;">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
 
+![snake gif](https://github.com/lucaslucena-la/lucaslucena-la/blob/output/github-contribution-grid-snake.svg)
