@@ -29,7 +29,7 @@
 ### 🌐 Connect with me:
 
 <div style="margin-top: 20px">
-  <a href="https:www.linkedin.com/in/lucaslucena-la" target="_blank" style="display: inline-block; margin-right: 10px;">
+  <a href="https://www.linkedin.com/in/lucaslucena-la" target="_blank" style="display: inline-block; margin-right: 10px;">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   
@@ -43,4 +43,4 @@
   </a>
 </div>
 
-![snake gif](https://github.com/lucaslucena-la/lucaslucena-la/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/lucaslucena-la/lucaslucena-la/output/github-contribution-grid-snake.svg)
