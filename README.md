@@ -43,6 +43,4 @@
   </a>
 </div>
 
-![snake gif](https://raw.githubusercontent.com/lucaslucena-la/lucaslucena-la/output/github-contribution-grid-snake.svg)
-
 
