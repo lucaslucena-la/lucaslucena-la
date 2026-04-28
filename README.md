@@ -1,5 +1,3 @@
-# Hi There! 👋 I'm Lucas Lucena  
-
 🎓 Computer Science Student @UFMT  
 💡 Fullstack Developer passionate about building impactful applications 
 🚀 Experience in web and mobile projects, startup leadership, and team collaboration  
