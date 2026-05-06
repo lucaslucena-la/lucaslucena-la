@@ -1,7 +1,6 @@
 🎓 Computer Science Student @UFMT  
-💡 Fullstack Developer passionate about building impactful applications 
+💡 Software Engineer passionate about building impactful applications 
 🚀 Experience in web and mobile projects, startup leadership, and team collaboration  
-💼 Open to collaborations, internships, and exciting challenges  
 
 ## 🌐 Connect with me  
 
